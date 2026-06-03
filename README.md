@@ -3,7 +3,7 @@
 ## Overview
 This is a CPU cache simulator program that simulates the mechanics of 
 CPU cache access, retrieval, and storage.The program keeps track of cache hits and misses, and calculates the hit rate based on the number of accesses.
-##Why this project is important
+## Why this project is important
 The CPU cache lies beween the main processor and the main memory, 
 and is designed to speed up data access by storing frequently used data.
 Understanding how the CPU cache works is crucial for optimizing software performance, 
